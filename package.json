@@ -1,0 +1,27 @@
+{
+  "name": "paginated-api",
+  "version": "1.0.0",
+  "description": "Demo For Pagination API in Node JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruvik94/Paginated-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruvik94/Paginated-API/issues"
+  },
+  "homepage": "https://github.com/Dhruvik94/Paginated-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
